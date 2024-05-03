@@ -1,5 +1,5 @@
 {
-    "name": "migol/task05",
+    "name": "krasulin/task05",
     "autoload": {
         "psr-4": {
             "App\\": "src/",
@@ -9,7 +9,7 @@
     },
     "authors": [
         {
-            "name": "migol"
+            "name": "krasulin"
         }
     ],
     "require": {
