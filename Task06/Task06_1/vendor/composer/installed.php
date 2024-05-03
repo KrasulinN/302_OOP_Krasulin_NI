@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'migol/task06',
+        'name' => 'krasulin/task06',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'cfca6599b0c4a7b96da20ed90a9eb33977750712',
+        'reference' => '88fc82e21ed056a2f772500f19edaf84c43a6cd9',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'migol/task06' => array(
+        'krasulin/task06' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'cfca6599b0c4a7b96da20ed90a9eb33977750712',
+            'reference' => '88fc82e21ed056a2f772500f19edaf84c43a6cd9',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
